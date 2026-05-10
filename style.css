@@ -1,0 +1,47 @@
+/* RESET SOME DEFAULT SPACING */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+/* BODY STYLING */
+body {
+   background-color: orange;
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 20px;
+}
+/* PARAGRAPH */
+p {
+   color: greenyellow;
+   font-size: 18px;
+   margin-bottom: 15px;
+}
+/* LIST STYLING */
+li {
+   margin: 10px 0;
+}
+/* LIST ITEMS */
+li {
+   margin: 10px 0;
+}
+/* LINKS */
+a {
+   text-decoration: none;
+   color: white;
+   font-weight: bold;
+   background-color: green;
+   padding: 8px 5px;
+   border-radius: 5px;
+   display: inline-block;
+}
+/* HOVER EFFECT FOR LINKS */
+a:hover {
+   background-color: darkgreen;
+}
+/* FOOTER */
+footer {
+   margin: 20px;
+   text-align: center;
+   font-size: 14px;
+}
